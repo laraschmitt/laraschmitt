@@ -1,11 +1,8 @@
-### Hi there 👋
+Hi there 👋
 
-- 👩‍💻 I’m currently working on the [ParkplatzTransform API](https://github.com/laraschmitt/parkplatztransform-api)
-- 🌱 I’m currently learning how to build RShiny dashboards
+I'm a data enthusiast currently working on the [ParkplatzTransform API](https://github.com/laraschmitt/parkplatztransform-api). Feel free to [reach out to me](https://www.linkedin.com/in/schmitt-lara/).
 
-- How to find me:
-  - :👉: [LinkedIn](https://www.linkedin.com/in/schmitt-lara/)
+I'm a CTO-as-a-Service and Founder & CEO of @Bearologics.
 
-[![Lara's github stats](https://github-readme-stats.vercel.app/api?username=laraschmitt&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/laraschmitt/github-readme-stats)
+#python #R #SQL #docker
 
-[![Languages:](https://github-readme-stats.vercel.app/api/top-langs/?username=laraschmitt)](https://github.com/laraschmitt/github-readme-stats)
