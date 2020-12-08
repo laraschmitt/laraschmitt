@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on the [ParkplatzTransform API](https://github.com/laraschmitt/parkplatztransform-api)
 - 🌱 I’m currently learning how to build RShiny dashboards
 
